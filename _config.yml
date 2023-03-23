@@ -1,7 +1,6 @@
 title: Minimalistic
 logo: /assets/img/rcb.jpeg
-email: reginaldchristianbernardo@gmail.com
-description: Minimalistic is a theme powered by Jekyll.
+description: Your Friendly Neighborhood Cosmologist
 favicon: true
 color-scheme: auto
 
@@ -11,20 +10,26 @@ plugins:
   - jemoji
 
 platforms:
+  - name: Email
+    icon: <i class="fa fa-envelope" aria-hidden="true"></i>
+    link: mailto:reginaldchristianbernardo@gmail.com
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
     link: https://github.com/reggiebernardo
+  - name: ORCID
+    icon: <i class="fa-brands fa-orcid"></i>
+    link: https://orcid.org/0000-0001-8589-6851
 
 navigation:
   - name: Home
     link: ./index.html
-    sublist:
-      - name: Image
-        link: ./index.html#small-image
   - name: Bio
-    link: ./about.html
+    link: ./bio.html
   - name: Research
     link: ./research.html
+    sublist:
+      - name: Highlights
+        link: ./research.html#highlights
   - name: Teaching
     link: ./teaching.html
   - name: Contact

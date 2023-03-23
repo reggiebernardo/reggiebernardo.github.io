@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 ---
 
 Hi, Reggie here. I hail from Calamba City, Philippines, where I went to high school and the seminary. I chased physics after this.
