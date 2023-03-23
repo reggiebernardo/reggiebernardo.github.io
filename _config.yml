@@ -1,4 +1,4 @@
-title: Minimalistic
+title: Reggie Bernardo
 logo: /assets/img/rcb.jpeg
 description: Your Friendly Neighborhood Cosmologist
 favicon: true
@@ -8,7 +8,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jemoji
-
+  
 platforms:
   - name: Email
     icon: <i class="fa fa-envelope" aria-hidden="true"></i>
@@ -19,6 +19,9 @@ platforms:
   - name: ORCID
     icon: <i class="fa-brands fa-orcid"></i>
     link: https://orcid.org/0000-0001-8589-6851
+  - name: Scholar
+    icon: <i class="fa-brands fa-google"></i>
+    link: https://scholar.google.com/citations?user=qoDKcvQAAAAJ&hl=en
 
 navigation:
   - name: Home
@@ -30,8 +33,11 @@ navigation:
     sublist:
       - name: Highlights
         link: ./research.html#highlights
+      - name: Statement
+        link: ./research.html#research-statement
+      - name: Experience
+        link: ./research.html#experience
   - name: Teaching
     link: ./teaching.html
   - name: Contact
     link: ./contact.html
-    
