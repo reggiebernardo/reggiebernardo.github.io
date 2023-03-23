@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Hi, Reggie here. I hail from Calamba City, Philippines, where I went to high school and the seminary. I chased physics after this. | ![](./assets/img/rcb.jpeg)
+Hi, Reggie here. I hail from Calamba City, Philippines, where I went to high school and the seminary. I chased physics after this.
 
 I received much of my scientific training (BS 2015, MS 2017, PhD 2020) from the prestigious [National Institute of Physics](http://nip.upd.edu.ph/) at the [University of the Philippines](https://upd.edu.ph/).
 During this time, I was lucky enough to have been guided under the wing of [Perry Esguerra](http://nip.upd.edu.ph/profiles/jose-perico-esguerra/) and later by [Ian Vega](https://ianvega.wixsite.com/ianvega/about) when I joined the [Gravity Group](https://gravity-nip.github.io/).
