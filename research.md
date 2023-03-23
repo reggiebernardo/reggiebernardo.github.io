@@ -17,9 +17,12 @@ Papers: <br />
   
 Full publication list at [Inspire HEP](https://inspirehep.net/authors/1758391), [ORCID](https://orcid.org/0000-0001-8589-6851), and [Google Scholar](https://scholar.google.com/citations?user=qoDKcvQAAAAJ&hl=en).
 
+<center>(SGWB-induced PTA correlations, see arXiv:2209.14834 for details)</center>
+<center><img src="https://github.com/reggiebernardo/PTAfast/blob/main/hdlowangle.png?raw=true"  width="75%"></center> <br />
+
 ### Research Statement
 
-Cosmology is on the brink of a paradigm shift. Old and new fundamental questions such as the nature of the dark fields, the Hubble tension, the old cosmological constant problem, among others, are compelling scientists to reexamine the theoretical cornerstones of the field such as the cosmological principle and general relativity itself in light of cosmological data. This urges cosmologists to keep an open mind to the multitude of theories that may potentially shed light on the aforementioned cosmic puzzles. <br />
+Cosmology is on the brink of a paradigm shift. Old and new fundamental questions such as the nature of the dark fields, the Hubble tension, the old cosmological constant problem, among others, are compelling scientists to reexamine the theoretical cornerstones of the field such as the cosmological principle and general relativity itself in light of cosmological data. This urges cosmologists to keep an open mind to the multitude of theories that may potentially shed light on the aforementioned cosmic puzzles. <br /> <br />
 ​
 On this background, I look out for dark energy models that pick up on irreplaceable features of general relativity such as gravitational waves all while showcasing novel, testable astrophysical and cosmological predictions. These models largely go by alternative theories of gravity (also often modified gravity) in the community. I devote my work to an examination of a variety of these models at testable distances of a few kilometers, e.g., a typical black hole size, to much larger scales relevant to the expansion of and structure formation in the observable Universe. I recently also focus on gravitational waves, in particular, in the nanohertz band -- the uncharted territory of cosmic strings, phase transitions, among other exotic phenomena -- and their detection using pulsar timing arrays. In addition, I am fascinated with machine learning as an interface between theory and data, and take as much opportunities to explore its potential for cosmology.
 
