@@ -6,7 +6,11 @@ layout: default
 **Dark Energy, Cosmology, Gravitational Waves**, Black Holes, Alternative Gravity, Physics Education
   
 ### Highlights
-Codes: [PTAfast: PTA correlations from stochastic gravitational wave background](http://ascl.net/code/v/3451) <br />
+Codes:
+
+- [`PTAfast`: PTA correlations from stochastic gravitational wave background](http://ascl.net/code/v/3451) <br />
+- [`gp6`: Gaussian Processes for Physics - designed for late time cosmology with noisy & correlated data](https://github.com/reggiebernardo/gp6) <br />
+
 Papers: <br />
 
 - R. C. Bernardo and K.-W. Ng, Pulsar and cosmic variances of pulsar timing-array correlation measurements of the stochastic gravitational wave background. [JCAP, 2022, (11) 046](https://iopscience.iop.org/article/10.1088/1475-7516/2022/11/046), [arXiv:2209.14834](https://arxiv.org/abs/2209.14834). <br />
