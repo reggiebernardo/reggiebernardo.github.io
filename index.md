@@ -8,8 +8,8 @@ Hi. I'm Reggie. Cosmologist.
 
 Here is a reflection of my scientific journey and stuff I picked up along the way that I want to share. So please view my [research](./research.html) at your convenience and use any material ([notebooks](https://github.com/reggiebernardo/notebooks), readings, whatsoever) you find in my website however you want. Enjoy, and don't hesitate to [email](mailto:reginaldchristianbernardo@gmail.com) me anytime!
 
-<center>(Cartoon in my PhD thesis poster)</center>
-<center><img src="./assets/img/physicschef.png"  width="75%"></center>
+<center>Me as meme (concepted with VMG)</center>
+<center><img src="./assets/img/measmeme.jpg"  width="75%"></center>
 
 <br />
 Reading starter pack for a good time: <br />

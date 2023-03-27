@@ -6,8 +6,7 @@ layout: default
 **Dark Energy, Cosmology, Gravitational Waves**, Black Holes, Alternative Gravity, Physics Education
   
 ### Highlights
-Codes:
-
+Codes: <br />
 - [`PTAfast`: PTA correlations from stochastic gravitational wave background](http://ascl.net/code/v/3451) <br />
 - [`gp6`: Gaussian Processes for Physics - designed for late time cosmology with noisy & correlated data](https://github.com/reggiebernardo/gp6) <br />
 
@@ -46,3 +45,7 @@ Coding: Python, Mathmematica, LaTeX
   
 ### Service to the Community
 Referee: Physical Review, Classical and Quantum Gravity, Physics of the Dark Universe, Chinese Journal of Physics, Scientific Reports, Proceedings of the Physics Society of the Philippines
+
+### Outreach
+[Pinoy Scientists, feature, 20-24 June 2022](https://www.facebook.com/pinoyscientists/posts/569675221190200) (day [1](https://www.facebook.com/pinoyscientists/posts/570402901117432), [2](https://www.facebook.com/pinoyscientists/posts/571198447704544), [3](https://www.facebook.com/pinoyscientists/posts/571871567637232), [4](https://www.facebook.com/pinoyscientists/posts/572511300906592), [5](https://www.facebook.com/pinoyscientists/posts/573062834184772)) <br />
+[Physics Meetup (guest, 20 Oct 2020)](https://youtu.be/cZkgEAcLd6M) and [Philippine Astronomical Society (guest, 10 Oct 2020, starting~1:43:50)](https://fb.watch/jtVpSm_Q-P/): A Brief History of BHs and Cosmology in the Philippines
