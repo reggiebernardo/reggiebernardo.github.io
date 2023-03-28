@@ -41,7 +41,7 @@ On this background, I look out for dark energy models that pick up on irreplacea
 
 ### Miscellaneous
 Languages: English (fluent), Filipino (mother tongue) <br />
-Coding: Python, Mathmematica, LaTeX
+Coding: Python, Mathematica, LaTeX
   
 ### Service to the Community
 Referee: Physical Review, Classical and Quantum Gravity, Physics of the Dark Universe, Chinese Journal of Physics, Scientific Reports, Proceedings of the Physics Society of the Philippines

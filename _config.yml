@@ -10,15 +10,12 @@ plugins:
   - jemoji
   
 platforms:
-  - name: GitHub
-    icon: <i class="fa-brands fa-github"></i>
-    link: https://github.com/reggiebernardo
-  - name: ORCID
-    icon: <i class="fa-brands fa-orcid"></i>
-    link: https://orcid.org/0000-0001-8589-6851
   - name: Scholar
     icon: <i class="fa-brands fa-google"></i>
     link: https://scholar.google.com/citations?user=qoDKcvQAAAAJ&hl=en
+  - name: ORCID
+    icon: <i class="fa-brands fa-orcid"></i>
+    link: https://orcid.org/0000-0001-8589-6851
 
 navigation:
   - name: Home
