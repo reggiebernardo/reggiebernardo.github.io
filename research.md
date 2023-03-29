@@ -18,16 +18,72 @@ Papers: <br />
 - R. C. Bernardo, D. Grandon, J. Levi Said, V. H. Cardenas. Parametric and nonparametric methods hint dark energy evolution. [Phys. Dark Universe, 36, 101017](https://www.sciencedirect.com/science/article/pii/S221268642200036X#!), [arXiv:2111.08289](https://arxiv.org/abs/2111.08289). <br />
 - R. C. Bernardo. 2021. Gravitational wave signatures from dark sector interactions. [PRD, 104, 024070](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.104.024070), [arXiv:2103.02311](https://arxiv.org/abs/2103.02311).
   
-Full publication list at [Inspire HEP](https://inspirehep.net/authors/1758391), [ORCID](https://orcid.org/0000-0001-8589-6851), and [Google Scholar](https://scholar.google.com/citations?user=qoDKcvQAAAAJ&hl=en).
+Full publication list at [Inspire HEP](https://inspirehep.net/authors/1758391), [ORCID](https://orcid.org/0000-0001-8589-6851), and [Google Scholar](https://scholar.google.com/citations?user=qoDKcvQAAAAJ&hl=en). <br />
 
-<center>(SGWB-induced PTA correlations, see arXiv:2209.14834 for details)</center>
-<center><img src="https://github.com/reggiebernardo/PTAfast/blob/main/hdlowangle.png?raw=true"  width="75%"></center> <br />
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Slideshow</title>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.css"/>
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick-theme.min.css"/>
+  <style>
+    .slide-container {
+      margin: auto;
+      width: 80%;
+    }
+    .slide-container img {
+      width: 100%;
+    }
+    .slick-prev:before, .slick-next:before {
+      color: black;
+    }
+  </style>
+</head>
+<body>
+  <div class="slide-container">
+    <div class="slide">
+      <div>
+        <img src="/assets/img/hdlowangle-1_orig.png" alt="Image 1">
+        <div class="slick-caption"><center>Stochastic gravitational wave background-induced pulsar timing array correlations (arXiv:2209.14834)</center></div>
+      </div>
+      <div>
+        <img src="/assets/img/hz-gp_orig.png" alt="Image 2">
+        <div class="slick-caption"><center>Hubble expansion rate reconstructed from observational data via Gaussian Processes as a representative of machine learning (arXiv:2105.12970)</center></div>
+      </div>
+      <div>
+        <img src="/assets/img/ht-wt_orig.png" alt="Image 3">
+        <div class="slick-caption"><center>Well tempering-in action featuring a de Sitter vacuum-final state independent of the initial conditions and size of the cosmological constant (arXiv:2107.08762)</center></div>
+      </div>
+    </div>
+  </div>
+  <script>
+    $(document).ready(function(){
+      $('.slide').slick({
+        dots: true,
+        arrows: false
+      });
+      $('.prev-button').on('click', function(){
+        $('.slide').slick('slickPrev');
+      });
+      $('.next-button').on('click', function(){
+        $('.slide').slick('slickNext');
+      });
+    });
+  </script>
+</body>
+</html> <br />
 
 ### Research Statement
 
-Cosmology is on the brink of a paradigm shift. Old and new fundamental questions such as the nature of the dark fields, the Hubble tension, the old cosmological constant problem, among others, are compelling scientists to reexamine the theoretical cornerstones of the field such as the cosmological principle and general relativity itself in light of cosmological data. This urges cosmologists to keep an open mind to the multitude of theories that may potentially shed light on the aforementioned cosmic puzzles. <br /> <br />
-​
-On this background, I look out for dark energy models that pick up on irreplaceable features of general relativity such as gravitational waves all while showcasing novel, testable astrophysical and cosmological predictions. These models largely go by alternative theories of gravity (also often modified gravity) in the community. I devote my work to an examination of a variety of these models at testable distances of a few kilometers, e.g., a typical black hole size, to much larger scales relevant to the expansion of and structure formation in the observable Universe. I recently also focus on gravitational waves, in particular, in the nanohertz band -- the uncharted territory of cosmic strings, phase transitions, among other exotic phenomena -- and their detection using pulsar timing arrays. In addition, I am fascinated with machine learning as an interface between theory and data, and take as much opportunities to explore its potential for cosmology.
+The current state of cosmology is characterized by a need for new theories and models that can address fundamental questions such as the nature of dark energy and the Hubble tension. As a cosmologist, I am passionate about exploring alternative theories of gravity that can shed light on these cosmic puzzles. My research focuses on the development of novel models that incorporate irreplaceable features of general relativity, such as gravitational waves, while also making testable predictions about astrophysical and cosmological phenomena. <br />
+
+In particular, I am fascinated by the largely unexplored nanohertz regime for gravitational wave detection, which has the potential to reveal exotic phenomena such as cosmic strings and phase transitions. Additionally, I am interested in the applications of machine learning in cosmology and have been exploring the use of these techniques to analyze large datasets and extract meaningful insights. <br />
+
+My research objectives include identifying interdisciplinary connections between cosmology and other areas of science and technology, staying up-to-date with the latest research in my areas of interest, and collaborating with other researchers to broaden my research scope and produce more impactful research. <br />
+
+Overall, my goal is to contribute to the paradigm shift in cosmology by developing new theories and models that can address the fundamental questions and puzzles of the field. By working with others and staying informed about the latest research developments, I hope to make meaningful contributions to the field and help advance our understanding of the Universe.
 
 ### Experience
 - Postdoctoral Fellow, [Institute of Physics, Academia Sinica](https://www.phys.sinica.edu.tw/index.php), 2021 - <br />

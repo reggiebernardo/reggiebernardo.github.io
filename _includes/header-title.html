@@ -1,13 +1,13 @@
 {% if site.logo %}
-<img class="logo" src="{{ site.logo | relative_url }}" alt="Logo">
+<img class="logo" src="{{ site.logo | relative_url }}" width="70%" alt="Logo">
 {% endif %}
 
 {% if site.blank_title %}
-<h1>{{ site.title | default: site.github.repository_name }}</h1>
+<h2>{{ site.title | default: site.github.repository_name }}</h2>
 {% else %}
-<h1>{{ site.title | default: site.github.repository_name }}</h1>
+<h2>{{ site.title | default: site.github.repository_name }}</h2>
 {% endif %}
 
 {% if site.email %}
-<p class="addr"><i class="fa-solid fa-envelope"></i>&nbsp;<a href="mailto:{{site.email}}">{{ site.email }}</a></p>
+<p class="addr"><i class="fa-solid fa-envelope"></i>&nbsp;<a href="mailto:reginaldchristianbernardo@gmail.com">{{ site.email }}</a></p>
 {% endif %}

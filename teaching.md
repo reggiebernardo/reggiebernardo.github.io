@@ -6,7 +6,9 @@ layout: default
 
 ### As a Physics Teacher
 
-Physics is fun! Yes, it is difficult, but this doesn't takeaway the fact that this is the most fascinating subject in the world. What could be better than learning about the building blocks (atoms) that make up everything we touch and see, and the largest and most monstrous objects (black holes) which shape meaning into our very own existence? Well, very few, if not none. But most people think physics is hard (yeah, right) and lame (Nooooo!), and I trace this image to how physics is instructed in high school and college. I was lucky enough to have had the best teachers to know how this should be done, and I take it as a personal mission to give the ones that come after the exquisite physics experience.
+Physics is fun! Yes, it is difficult, but this doesn't takeaway the fact that this is the most fascinating subject in the world. What could be better than learning about the building blocks that make up everything we touch and see, and the largest and most monstrous astronomical objects which shape meaning into our very own existence? Well, very few, if not none. But most people think physics is hard (yeah, right) and lame (Nooooo!). I trace this image to how physics is portrayed in basic education, and realize how lucky I was to have had the best teachers to know how this should be done.
+
+Paving the road forward, especially for all the young guns in my beloved Philippines, I take it as a personal mission to always give the ones that come after the exquisite physics experience to tell.
 
 <center>(Lab class, 2015)</center>
 <center><img src="./assets/img/lab.jpg"  width="75%"></center>
@@ -14,7 +16,7 @@ Physics is fun! Yes, it is difficult, but this doesn't takeaway the fact that th
 <center>(Lecture class, 2017)</center>
 <center><img src="./assets/img/lecture.jpg"  width="75%"></center> <br />
 
-### Teaching experience ([NIP-UPD](http://nip.upd.edu.ph/))
-**Lecturer**: particle physics, nuclear theory, thermodynamics, relativity, and quantum physics to engineering and physics majors <br />
-**Lab**: elementary mechanics, thermodynamics, and modern physics for engineering students <br />
-**Grader**: classical mechanics, electromagnetism, quantum mechanics, mathematical physics, solid state physics, basic and advanced general relativity
+### Teaching Experience ([NIP-UPD](http://nip.upd.edu.ph/))
+Lecture : Particle Physics, Nuclear Theory, Thermodynamics, Relativity, and Quantum Physics to Engineering and Physics majors <br />
+Lab     : Elementary Mechanics, Thermodynamics, and Modern Physics for Engineering and Physics majors <br />
+Grader : Classical Mechanics, Electromagnetism, Quantum Mechanics, Mathematical Physics, Solid State Physics, Basic and Advanced General Relativity
