@@ -24,8 +24,6 @@ platforms:
 navigation:
   - name: Home
     link: ./index.html
-  - name: Bio
-    link: ./bio.html
   - name: Research
     link: ./research.html
     sublist:
@@ -37,5 +35,7 @@ navigation:
         link: ./research.html#experience
   - name: Teaching
     link: ./teaching.html
+  - name: Bio
+    link: ./bio.html
   - name: Contact
     link: ./contact.html

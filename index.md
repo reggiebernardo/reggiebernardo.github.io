@@ -4,9 +4,11 @@ layout: default
 
 > "Pick a flower on Earth and you move the farthest star." - PD
 
-Hi. I'm Reggie. Cosmologist.
+Welcome to my corner of the internet! My name is Reggie, and as a theoretical cosmologist, I spend my days exploring the deepest secrets of the universe. On this website, I'll be sharing my discoveries with you, as well as my thoughts on the latest developments in the field.
 
-Here is a reflection of my scientific journey and stuff I picked up along the way that I want to share. So please view my [research](./research.html) at your convenience and use any material ([notebooks](https://github.com/reggiebernardo/notebooks), readings, whatsoever) you find in my website however you want. Enjoy, and don't hesitate to [email](mailto:reginaldchristianbernardo@gmail.com) me anytime!
+Throughout my scientific journey, I've accumulated a wealth of knowledge, and I'm excited to share my findings with you. On this website, you'll find my [research](./research.html), [notes](https://github.com/reggiebernardo/notebooks), and readings, which I hope will inspire and educate you.
+
+Feel free to explore the material at your leisure and use it in any way that benefits your own pursuits. And if you have any questions or comments, don't hesitate to [reach out to me](mailto:reginaldchristianbernardo@gmail.com). I'm always eager to engage with fellow explorers of the cosmos.
 
 <center>Me as meme (concepted with VMG)</center>
 <center><img src="./assets/img/measmeme.jpg"  width="75%"></center>
