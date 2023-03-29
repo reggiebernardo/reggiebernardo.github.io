@@ -6,9 +6,9 @@ layout: default
 
 ### As a Physics Teacher
 
-Physics is fun! Yes, it is difficult, but this doesn't takeaway the fact that this is the most fascinating subject in the world. What could be better than learning about the building blocks that make up everything we touch and see, and the largest and most monstrous astronomical objects which shape meaning into our very own existence? Well, very few, if not none. But most people think physics is hard (yeah, right) and lame (Nooooo!). I trace this image to how physics is portrayed in basic education, and realize how lucky I was to have had the best teachers to know how this should be done.
+Physics is one of the most fascinating subjects in the world. It's the study of the building blocks that make up everything we touch and see, as well as the largest and most monstrous astronomical objects that shape our very existence. Unfortunately, many people think that physics is difficult and boring. I believe this is due to how physics is often portrayed in basic education, but it doesn't have to be that way.
 
-Paving the road forward, especially for all the young guns in my beloved Philippines, I take it as a personal mission to always give the ones that come after the exquisite physics experience to tell.
+When I was learning physics, I was fortunate to have had some of the best teachers who knew how to make the subject come alive. They didn't just explain the concepts; they also provided real-world examples and engaged us in hands-on experiments. It was through their guidance that I learned to appreciate the beauty and elegance of physics.
 
 <center>(Lab class, 2015)</center>
 <center><img src="./assets/img/lab.jpg"  width="75%"></center>
@@ -16,7 +16,15 @@ Paving the road forward, especially for all the young guns in my beloved Philipp
 <center>(Lecture class, 2017)</center>
 <center><img src="./assets/img/lecture.jpg"  width="75%"></center> <br />
 
+I understand that many people find physics challenging, but it's not impossible to understand. By breaking down complex ideas into simpler components and explaining them in relatable terms, anyone can grasp the fundamental concepts of physics. Moreover, by highlighting the practical applications of physics in our everyday lives, we can help others see the subject's relevance and importance.
+
+As someone who has benefited greatly from learning physics, I feel it's my personal mission to share this passion with others, especially young people in the Philippines. I want to give them the same exquisite physics experience that I had and help them see that physics is not just a subject but a way of understanding the world around us.
+
 ### Teaching Experience ([NIP-UPD](http://nip.upd.edu.ph/))
-Lecture : Particle Physics, Nuclear Theory, Thermodynamics, Relativity, and Quantum Physics to Engineering and Physics majors <br />
-Lab     : Elementary Mechanics, Thermodynamics, and Modern Physics for Engineering and Physics majors <br />
-Grader : Classical Mechanics, Electromagnetism, Quantum Mechanics, Mathematical Physics, Solid State Physics, Basic and Advanced General Relativity
+
+| :--- | :---: |
+| **Lecture** | Particle Physics, Nuclear Theory, Thermodynamics, Relativity, Quantum Physics |
+| | Intended for: Engineering, Science and Physics majors |
+| **Lab** | Elementary Mechanics, Thermodynamics, Modern Physics |
+| | Intended for: Engineering, Science and Physics majors |
+| **Grader** | Classical Mechanics, Electromagnetism, Quantum Mechanics, Mathematical Physics, Solid State Physics, General and Advanced General Relativity |
