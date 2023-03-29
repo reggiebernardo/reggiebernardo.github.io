@@ -11,6 +11,9 @@ plugins:
   - jemoji
   
 platforms:
+  - name: GitHub
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/reggiebernardo
   - name: Scholar
     icon: <i class="fa-brands fa-google"></i>
     link: https://scholar.google.com/citations?user=qoDKcvQAAAAJ&hl=en
