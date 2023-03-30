@@ -3,7 +3,7 @@ layout: default
 ---
 
 ### Interests 
-**Dark Energy, Cosmology, Gravitational Waves**, Black Holes, Alternative Gravity, Physics Education
+**Dark Energy, Cosmology, Gravitational Waves**, Black Holes, Alternative Theories of Gravity, Numerical Physics, Machine Learning, Mathematical Physics, Physics Education
   
 ### Highlights
 Codes: <br />
@@ -18,7 +18,7 @@ Papers: <br />
 - R. C. Bernardo, D. Grandon, J. Levi Said, V. H. Cardenas. Parametric and nonparametric methods hint dark energy evolution. [Phys. Dark Universe, 36, 101017](https://www.sciencedirect.com/science/article/pii/S221268642200036X#!), [arXiv:2111.08289](https://arxiv.org/abs/2111.08289). <br />
 - R. C. Bernardo. 2021. Gravitational wave signatures from dark sector interactions. [PRD, 104, 024070](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.104.024070), [arXiv:2103.02311](https://arxiv.org/abs/2103.02311).
   
-Full publication list at [Inspire HEP](https://inspirehep.net/authors/1758391), [ORCID](https://orcid.org/0000-0001-8589-6851), and [Google Scholar](https://scholar.google.com/citations?user=qoDKcvQAAAAJ&hl=en). <br />
+Full publication list at [Inspire HEP](https://inspirehep.net/authors/1758391), [ORCID](https://orcid.org/0000-0001-8589-6851), and [Google Scholar](https://scholar.google.com/citations?user=qoDKcvQAAAAJ&hl=en), or [my CV](./mycv.pdf). <br />
 
 <html>
 <head>

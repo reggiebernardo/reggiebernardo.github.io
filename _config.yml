@@ -36,6 +36,8 @@ navigation:
         link: ./research.html#research-statement
       - name: Experience
         link: ./research.html#experience
+      - name: My CV
+        link: ./mycv.pdf
   - name: Teaching
     link: ./teaching.html
   - name: Bio
