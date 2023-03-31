@@ -4,7 +4,7 @@ layout: default
 
 > "Pick a flower on Earth and you move the farthest star." - PD
 
-Welcome to my corner of the internet! My name is Reggie, and as a theoretical cosmologist, I spend my days exploring the deepest secrets of the universe. On this website, I'll be sharing my discoveries with you, as well as my thoughts on the latest developments in the field.
+Welcome to my corner of the Web! My name is Reggie, and as a theoretical cosmologist, I spend my days exploring the deepest secrets of the universe. On this website, I'll be sharing my discoveries with you, as well as my thoughts on the latest developments in the field.
 
 Throughout my scientific journey, I've accumulated a wealth of knowledge, and I'm excited to share my findings with you. On this website, you'll find my [research](./research.html), [notes](https://github.com/reggiebernardo/notebooks), and readings, which I hope will inspire and educate you.
 
