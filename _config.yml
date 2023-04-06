@@ -23,6 +23,9 @@ platforms:
   - name: iNSPIRE-HEP
     icon: <img src="https://inspirehep.net/favicon.ico" alt="InspireHEP Icon" width="16" height="16">
     link: https://inspirehep.net/authors/1758391
+  - name: ResearchGate
+    icon: <i class="fa-brands fa-researchgate"></i>
+    link: https://www.researchgate.net/profile/Reginald-Christian-Bernardo
 
 navigation:
   - name: Home
