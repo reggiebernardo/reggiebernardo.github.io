@@ -24,7 +24,8 @@ As someone who has benefited greatly from learning physics, I feel it's my perso
 
 | :--- | :---: |
 | **Lecture** | Particle Physics, Nuclear Theory, Thermodynamics, Relativity, Quantum Physics |
-| | Intended for: Engineering, Science and Physics majors |
+| | For: Engineering, Science and Physics majors |
 | **Lab** | Elementary Mechanics, Thermodynamics, Modern Physics |
-| | Intended for: Engineering, Science and Physics majors |
+| | For: Engineering, Science and Physics majors |
 | **Grader** | Classical Mechanics, Electromagnetism, Quantum Mechanics, Mathematical Physics, Solid State Physics, General and Advanced General Relativity |
+| | For: Undergraduate and Graduate Physics majors |
