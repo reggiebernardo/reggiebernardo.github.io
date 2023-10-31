@@ -12,6 +12,9 @@ I received my scientific training (BS 2015, MS 2017, PhD 2020) from the prestigi
 <center>(Grad students playing with projectiles)</center>
 <center><img src="./assets/img/gradstudent.jpg"  width="75%"></center> <br />
 
-Currently, I'm a postdoc at the [Institute of Physics, Academia Sinica](https://www.phys.sinica.edu.tw/index.php) in Taiwan, where I continue my research in theoretical cosmology and gravitational physics.
+After my PhD, I moved to the [Institute of Physics, Academia Sinica](https://www.phys.sinica.edu.tw/index.php) in Taiwan for my first postdoc to continue my research in theoretical cosmology and gravitational physics. <br />
+
+
+Currently, I'm a postdoc with the Observational Cosmology Junior Research Group at the [Asia Pacific Center for Theoretical Physics](https://www.apctp.org/) in Korea. <br />
 
 When I'm not working on physics, I enjoy playing chess and basketball, hiking, and having long conversations over drinks. I'm also a big fan of movies, TV series (shoutout to Mr. Robot fans!), and anime. Some of my all-time favorites include Whiplash (movie), Mr. Robot (TV series), The Office US (sitcom), and Fullmetal Alchemist: Brotherhood (anime).

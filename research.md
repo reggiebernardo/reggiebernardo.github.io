@@ -86,7 +86,8 @@ My research objectives include identifying interdisciplinary connections between
 Overall, my goal is to contribute to the paradigm shift in cosmology by developing new theories and models that can address the fundamental questions and puzzles of the field. By working with others and staying informed about the latest research developments, I hope to make meaningful contributions to the field and help advance our understanding of the Universe.
 
 ### Experience
-- Postdoctoral Fellow, [Institute of Physics, Academia Sinica](https://www.phys.sinica.edu.tw/index.php), 2021 - <br />
+- Postdoctoral Fellow, [Asia Pacific Center for Theoretical Physics](https://www.apctp.org/), 2023 - <br />
+- Postdoctoral Fellow, [Institute of Physics, Academia Sinica](https://www.phys.sinica.edu.tw/index.php), 2021 - 2023 <br />
 - Assistant Professor, [National Institute of Physics, University of the Philippines]((http://nip.upd.edu.ph/)), 2021 - 2021 <br />
 - Instructor, National Institute of Physics, University of the Philippines, 2015 - 2020
   
@@ -100,7 +101,7 @@ Languages: English (fluent), Filipino (mother tongue) <br />
 Coding: Python, Mathematica, LaTeX
   
 ### Service to the Community
-Referee: Physical Review, Classical and Quantum Gravity, Physics of the Dark Universe, Chinese Journal of Physics, Scientific Reports, Proceedings of the Physics Society of the Philippines
+Referee: Physical Review Journals, Classical and Quantum Gravity, Physics of the Dark Universe, Astronomy and Computing, Chinese Journal of Physics, Scientific Reports, Proceedings of the Physics Society of the Philippines
 
 ### Outreach
 Career talk with the [PUP Physics Society (29 Sep. 2022)](https://www.facebook.com/100064103430987/posts/461342072679237/) and the [UST Applied Physics Society (5 May 2023)](https://www.facebook.com/ustmathphysicsdept/posts/pfbid021YwscDi8Cr8UaPmA8rjYoXwghWHSJr1JyabCtdaRyndRkGBvNC5X9r83tD5zrfiel?locale=ms_MY) <br />
