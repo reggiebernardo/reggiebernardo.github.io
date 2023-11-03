@@ -4,7 +4,7 @@ layout: default
 
 
 **Dr. Reginald Christian Bernardo** <br />
-Postdoctoral Fellow, Asia Pacific Center for Theoretical Physics <br />
+Postdoctoral Fellow, [APCTP](https://www.apctp.org/) <br />
 Office: #533, Hogil Kim Memorial Bldg., POSTECH, Pohang ([maps](https://maps.app.goo.gl/KJERUL197LvimWFi6)) <br />
 Phone: +82-054-279-3644 <br />
 Email: [reginaldchristianbernardo(at)gmail(dot)com](mailto:reginaldchristianbernardo@gmail.com) <br />

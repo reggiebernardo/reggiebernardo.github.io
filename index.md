@@ -14,4 +14,7 @@ Reading starter pack for a good time: <br />
 [Four golden lessons](https://www.nature.com/articles/426389a) <br />
 [Three ways to turn the page after your first paper rejection](https://www.nature.com/articles/d41586-020-01166-2) <br />
 [How to (seriously) read a scientific paper](https://www.sciencemag.org/careers/2016/03/how-seriously-read-scientific-paper) <br />
-[Physics … is for girls?](https://physicstoday.scitation.org/doi/full/10.1063/PT.3.5061)
+[Physics … is for girls?](https://physicstoday.scitation.org/doi/full/10.1063/PT.3.5061) <br />
+
+Fun guesting in the Philippines' best Science Podcast: <br />
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6PLqA3RoWQLmqGGH4yRP8C?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
