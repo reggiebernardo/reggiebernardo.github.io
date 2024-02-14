@@ -101,7 +101,7 @@ Languages: English (fluent), Filipino (mother tongue) <br />
 Coding: Python, Mathematica, LaTeX
   
 ### Service to the Community
-Referee: Physical Review Journals, Classical and Quantum Gravity, Physics of the Dark Universe, Astronomy and Computing, Chinese Journal of Physics, Scientific Reports, Proceedings of the Physics Society of the Philippines
+Referee: PRL, PRD, CQG, Phys. Dark Universe, EPJC, Astron. Comput., Chinese J. Phys., Sci. Rep., Proceedings of the Physics Society of the Philippines
 
 ### Outreach
 Host, [Liknayan Podcast](https://www.youtube.com/@liknayan.podcast) <br />
