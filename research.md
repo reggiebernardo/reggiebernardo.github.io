@@ -3,7 +3,10 @@ layout: default
 ---
 
 ### Interests 
-**Dark Energy, Cosmology, Gravitational Waves**, Black Holes, Alternative Theories of Gravity, Numerical Physics, Machine Learning, Mathematical Physics, Physics Education
+**Dark Energy, Cosmology, Gravitational Waves**, Black Holes, Alternative Theories of Gravity, Machine Learning, Data Analysis, Mathematical Physics, Physics Education
+
+### Service to the Community
+Referee: PRL, PRD, JCAP, CQG, Phys. Dark Universe, EPJC, Astron. Comput., Chinese J. Phys., Sci. Rep., Proceedings of the Physics Society of the Philippines
   
 ### Highlights
 Codes: <br />
@@ -99,9 +102,6 @@ Overall, my goal is to contribute to the paradigm shift in cosmology by developi
 ### Miscellaneous
 Languages: English (fluent), Filipino (mother tongue) <br />
 Coding: Python, Mathematica, LaTeX
-  
-### Service to the Community
-Referee: PRL, PRD, CQG, Phys. Dark Universe, EPJC, Astron. Comput., Chinese J. Phys., Sci. Rep., Proceedings of the Physics Society of the Philippines
 
 ### Outreach
 Host, [Liknayan Podcast](https://www.youtube.com/@liknayan.podcast) <br />
