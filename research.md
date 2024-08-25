@@ -2,11 +2,11 @@
 layout: default
 ---
 
-### Interests 
-**Dark Energy, Cosmology, Gravitational Waves**, Black Holes, Alternative Theories of Gravity, Machine Learning, Data Analysis, Mathematical Physics, Physics Education
+### Interests (astro-ph.CO/gr-qc)
+**Gravitational Waves, Cosmology, Dark Energy**, Black Holes, Alternative Theories of Gravity, Machine Learning, Data Analysis, Mathematical Physics, Physics Education
 
 ### Service to the Community
-Referee: PRL, PRD, JCAP, CQG, Phys. Dark Universe, EPJC, Astron. Comput., Chinese J. Phys., Sci. Rep., Proceedings of the Physics Society of the Philippines
+Referee: PRL, PRD, JCAP, CQG, Phys. Dark Universe, EPJC, Astron. Comput., MPLA, Chinese J. Phys., Sci. Rep., Proceedings of the Physics Society of the Philippines
   
 ### Highlights
 Codes: <br />
@@ -16,7 +16,7 @@ Codes: <br />
 Papers: <br />
 
 - R. C. Bernardo and K.-W. Ng, Pulsar and cosmic variances of pulsar timing-array correlation measurements of the stochastic gravitational wave background. [JCAP, 2022, (11) 046](https://iopscience.iop.org/article/10.1088/1475-7516/2022/11/046), [arXiv:2209.14834](https://arxiv.org/abs/2209.14834). <br />
-- R. C. Bernardo and K.-W. Ng, Stochastic gravitational wave background phenomenology in a pulsar timing array. [PRD, 107, 044007](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.104.024070), [arXiv:2208.12538](https://arxiv.org/abs/2208.12538). <br />
+- R. C. Bernardo and K.-W. Ng, Testing gravity with cosmic variance-limited pulsar timing array correlations. [PRD 109, L101502](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.104.024070), [arXiv:2306.13593](https://arxiv.org/abs/2306.13593). <br />
 - S. Appleby and R. C. Bernardo, Tadpole Cosmology: Self Tuning Without Degeneracy. [JCAP, 2022, (07) 035](https://iopscience.iop.org/article/10.1088/1475-7516/2022/07/035), [arXiv:2202.08672](https://arxiv.org/abs/2202.08672). <br />
 - R. C. Bernardo, D. Grandon, J. Levi Said, V. H. Cardenas. Parametric and nonparametric methods hint dark energy evolution. [Phys. Dark Universe, 36, 101017](https://www.sciencedirect.com/science/article/pii/S221268642200036X#!), [arXiv:2111.08289](https://arxiv.org/abs/2111.08289). <br />
 - R. C. Bernardo. 2021. Gravitational wave signatures from dark sector interactions. [PRD, 104, 024070](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.104.024070), [arXiv:2103.02311](https://arxiv.org/abs/2103.02311).
@@ -80,13 +80,13 @@ Full publication list at [Inspire HEP](https://inspirehep.net/authors/1758391), 
 
 ### Research Statement
 
-The current state of cosmology is characterized by a need for new theories and models that can address fundamental questions such as the nature of dark energy and the Hubble tension. As a cosmologist, I am passionate about exploring alternative theories of gravity that can shed light on these cosmic puzzles. My research focuses on the development of novel models that incorporate irreplaceable features of general relativity, such as gravitational waves, while also making testable predictions about astrophysical and cosmological phenomena. <br />
+The current state of cosmology is characterized by a need for new theories and models that can address fundamental questions such as the nature of dark energy and the Hubble tension. I am passionate about exploring alternative theories of gravity that can shed light on these cosmic puzzles. My research focuses on the development of novel models that incorporate irreplaceable features of general relativity, such as gravitational waves, while also making testable astrophysical and cosmological predictions. <br />
 
 In particular, I am fascinated by the largely unexplored nanohertz regime for gravitational wave detection, which has the potential to reveal exotic phenomena such as cosmic strings and phase transitions. Additionally, I am interested in the applications of machine learning in cosmology and have been exploring the use of these techniques to analyze large datasets and extract meaningful insights. <br />
 
-My research objectives include identifying interdisciplinary connections between cosmology and other areas of science and technology, staying up-to-date with the latest research in my areas of interest, and collaborating with other researchers to broaden my research scope and produce more impactful research. <br />
+My research objectives include identifying interdisciplinary connections between cosmology and other areas of science, staying up-to-date with the latest research in my areas of interest, and collaborating with others to broaden my scope and produce more impactful research. <br />
 
-Overall, my goal is to contribute to the paradigm shift in cosmology by developing new theories and models that can address the fundamental questions and puzzles of the field. By working with others and staying informed about the latest research developments, I hope to make meaningful contributions to the field and help advance our understanding of the Universe.
+Overall, my goal is to contribute to the paradigm shift in cosmology by developing new theories and models that can address the fundamental questions and puzzles of the field.
 
 ### Experience
 - Postdoctoral Fellow, [Asia Pacific Center for Theoretical Physics](https://www.apctp.org/), 2023 - <br />
