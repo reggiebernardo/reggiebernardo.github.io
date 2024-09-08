@@ -6,7 +6,7 @@ layout: default
 **Gravitational Waves, Cosmology, Dark Energy**, Black Holes, Alternative Theories of Gravity, Machine Learning, Data Analysis, Mathematical Physics, Physics Education
 
 ### Service to the Community
-Referee: PRL, PRD, JCAP, CQG, Phys. Dark Universe, EPJC, Astron. Comput., MPLA, Chinese J. Phys., Sci. Rep., Proceedings of the Physics Society of the Philippines
+Referee: PRL, PRD, JCAP, CQG, Phys. Dark Universe, EPJC, Astron. Comput., MPLA, Chinese J. Phys., Sci. Rep., Proceedings of the Physics Society of the Philippines, Philippine Journal of Science
   
 ### Highlights
 Codes: <br />

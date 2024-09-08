@@ -1,5 +1,5 @@
 title: Reggie Bernardo
-logo: /assets/img/rcb.jpeg
+logo: /assets/img/rcb_3.jpeg
 email: reginaldchristianbernardo@gmail.com
 twitter: reggiebernardo_
 description: Your Friendly Neighborhood Cosmologist
@@ -44,7 +44,7 @@ navigation:
         link: ./mycv.pdf
   - name: Teaching
     link: ./teaching.html
-  - name: Bio
+  - name: My Journey
     link: ./bio.html
   - name: Contact
     link: ./contact.html
