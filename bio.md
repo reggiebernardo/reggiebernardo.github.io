@@ -23,7 +23,7 @@ Here are some memorable moments captured during my academic journey:
 After completing my PhD, I embarked on my first postdoctoral research stint at the [Institute of Physics, Academia Sinica](https://www.phys.sinica.edu.tw/index.php) in Taiwan, where I continued my exploration in theoretical cosmology and gravitational physics.
 
 <center>(At ASIoP)</center>
-<center><img src="./assets/img/iop.jpg"  width="50%"></center> <br />
+<center><img src="./assets/img/iop.jpeg"  width="50%"></center> <br />
 
 <center>(ASIoP Gravity-Cosmology; center Prof. Kin-Wang Ng, right Dr. Che-Yu Chen)</center>
 <center><img src="./assets/img/iop_cosmo.jpeg"  width="75%"></center> <br />
