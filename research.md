@@ -6,8 +6,9 @@ layout: default
 **Gravitational Waves, Cosmology, Dark Energy**, Black Holes, Alternative Theories of Gravity, Machine Learning, Data Analysis, Mathematical Physics, Physics Education
 
 ### Service to the Community
-Referee: PRL, PRD, JCAP, CQG, Phys. Dark Universe, EPJC, Astron. Comput., MPLA, Chinese J. Phys., Sci. Rep., Proceedings of the Physics Society of the Philippines, Philippine Journal of Science
-  
+Referee: PRL, PRD, JCAP, CQG, Phys. Dark Universe, EPJC, Astron. Comput., MPLA, Chinese J. Phys., Sci. Rep., Proceedings of the Physics Society of the Philippines, Philippine Journal of ScienceEditor: [Proceedings of the Physics Society of the Philippines](https://proceedings.spp-online.org)
+
+Member: [CosmoVerse COST Action](https://cosmoversetensions.eu)---Data Analysis and Fundamental Physics Working Groups; [SKAO](https://www.skao.int/en/science-users/science-working-groups)---Pulsars and Cosmology Science Working Groups  
 ### Highlights
 Codes: <br />
 - [`PTAfast`: PTA correlations from stochastic gravitational wave background](http://ascl.net/code/v/3451) <br />
@@ -48,16 +49,20 @@ Full publication list at [Inspire HEP](https://inspirehep.net/authors/1758391), 
   <div class="slide-container">
     <div class="slide">
       <div>
-        <img src="/assets/img/hdlowangle-1_orig.png" alt="Image 1">
-        <div class="slick-caption"><center>Stochastic gravitational wave background-induced pulsar timing array correlations (arXiv:2209.14834)</center></div>
+        <img src="/assets/img/bin_variance_bestfit.png" alt="Image 1">
+        <div class="slick-caption"><center>Signal of a stochastic gravitational wave background in the timing residuals in a pulsar timing array (arXiv:2409.01218)</center></div>
       </div>
       <div>
-        <img src="/assets/img/hz-gp_orig.png" alt="Image 2">
-        <div class="slick-caption"><center>Hubble expansion rate reconstructed from observational data via Gaussian Processes as a representative of machine learning (arXiv:2105.12970)</center></div>
+        <img src="/assets/img/hdlowangle-1_orig.png" alt="Image 2">
+        <div class="slick-caption"><center>SGWB-induced inter-pulsar correlations with cosmic variance (arXiv:2209.14834)</center></div>
       </div>
       <div>
-        <img src="/assets/img/ht-wt_orig.png" alt="Image 3">
-        <div class="slick-caption"><center>Well tempering-in action featuring a de Sitter vacuum-final state independent of the initial conditions and size of the cosmological constant (arXiv:2107.08762)</center></div>
+        <img src="/assets/img/hz-gp_orig.png" alt="Image 3">
+        <div class="slick-caption"><center>Hubble expansion rate reconstructed from observational data via Gaussian Processes (arXiv:2105.12970)</center></div>
+      </div>
+      <div>
+        <img src="/assets/img/ht-wt_orig.png" alt="Image 4">
+        <div class="slick-caption"><center>Well tempering: a de Sitter final state independent of the initial conditions and the CC (arXiv:2107.08762)</center></div>
       </div>
     </div>
   </div>
@@ -101,7 +106,7 @@ Overall, my goal is to contribute to the paradigm shift in cosmology by developi
 
 ### Miscellaneous
 Languages: English (fluent), Filipino (mother tongue) <br />
-Coding: Python, Mathematica, LaTeX
+Coding: Command Line, Python, Mathematica, LaTeX
 
 ### Outreach
 Host, [Liknayan Podcast](https://www.youtube.com/@liknayan.podcast) <br />

@@ -42,8 +42,8 @@ navigation:
         link: ./research.html#experience
       - name: Outreach
         link: ./research.html#outreach
-      - name: My CV
-        link: ./mycv.pdf
+  - name: My CV
+    link: ./mycv.pdf
   - name: Teaching
     link: ./teaching.html
   - name: My Journey
