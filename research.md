@@ -3,12 +3,7 @@ layout: default
 ---
 
 ### Interests (astro-ph.CO/gr-qc)
-**Gravitational Waves, Cosmology, Dark Energy**, Black Holes, Alternative Theories of Gravity, Machine Learning, Data Analysis, Mathematical Physics, Physics Education
-
-### Service to the Community
-Referee: PRL, PRD, JCAP, CQG, Phys. Dark Universe, EPJC, Astron. Comput., MPLA, Chinese J. Phys., Sci. Rep., Proceedings of the Physics Society of the Philippines, Philippine Journal of ScienceEditor: [Proceedings of the Physics Society of the Philippines](https://proceedings.spp-online.org)
-
-Member: [CosmoVerse COST Action](https://cosmoversetensions.eu)---Data Analysis and Fundamental Physics Working Groups; [SKAO](https://www.skao.int/en/science-users/science-working-groups)---Pulsars and Cosmology Science Working Groups  
+**Gravitational Waves, Gravity, Cosmology, Machine Learning,** Dark Energy, Black Holes, Alternative Theories of Gravity, Statistics, Data Analysis, Mathematical Physics, Physics Education  
 ### Highlights
 Codes: <br />
 - [`PTAfast`: PTA correlations from stochastic gravitational wave background](http://ascl.net/code/v/3451) <br />
@@ -107,6 +102,11 @@ Overall, my goal is to contribute to the paradigm shift in cosmology by developi
 ### Miscellaneous
 Languages: English (fluent), Filipino (mother tongue) <br />
 Coding: Command Line, Python, Mathematica, LaTeX
+
+### Community Involvement
+Referee: PRL, PRD, JCAP, CQG, Phys. Dark Universe, EPJC, Astron. Comput., MPLA, Chinese J. Phys., Sci. Rep., Proceedings of the Physics Society of the Philippines, Philippine Journal of ScienceEditor: [Proceedings of the Physics Society of the Philippines](https://proceedings.spp-online.org)
+
+Member: [CosmoVerse COST Action](https://cosmoversetensions.eu)---Data Analysis and Fundamental Physics Working Groups; [SKAO](https://www.skao.int/en/science-users/science-working-groups)---Pulsars and Cosmology Science Working Groups
 
 ### Outreach
 Host, [Liknayan Podcast](https://www.youtube.com/@liknayan.podcast) <br />
