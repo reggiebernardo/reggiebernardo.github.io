@@ -4,7 +4,7 @@ layout: default
 
 > "Naglalaho sa loob ng mga klase ang mga hadlang na itinatayo ng politika upang hatiin ang mga lahi, natutunaw wari sa alab ng kaalaman at kabataan."  
 >
-> — JR, *Fili*, *Isang Bahay ng mga Estudyante*
+> — JR, *El Filibusterismo*, *Isang Bahay ng mga Estudyante*
 
 ### Teaching Philosophy
 

@@ -3,10 +3,12 @@ layout: default
 ---
 
 ### Interests (astro-ph.CO/gr-qc)
-**Gravitational Waves, Gravity, Cosmology, Machine Learning,** Dark Energy, Black Holes, Alternative Theories of Gravity, Statistics, Data Analysis, Mathematical Physics, Physics Education  
+**Gravitational Waves, Gravity, Cosmology, Machine Learning,** Dark Energy, Black Holes, Alternative Theories of Gravity, Statistics, Data Analysis, Mathematical Physics, Physics Education
+  
 ### Highlights
 Codes: <br />
 - [`PTAfast`: PTA correlations from stochastic gravitational wave background](http://ascl.net/code/v/3451) <br />
+- [`cosmo-learn`: code for learning cosmology using different methods and mock data](https://github.com/reggiebernardo/cosmo_learn) <br />
 - [`gp6`: Gaussian Processes for Physics - designed for late time cosmology with noisy & correlated data](https://github.com/reggiebernardo/gp6) <br />
 
 Papers: <br />
@@ -82,7 +84,7 @@ Full publication list at [Inspire HEP](https://inspirehep.net/authors/1758391), 
 
 The current state of cosmology is characterized by a need for new theories and models that can address fundamental questions such as the nature of dark energy and the Hubble tension. I am passionate about exploring alternative theories of gravity that can shed light on these cosmic puzzles. My research focuses on the development of novel models that incorporate irreplaceable features of general relativity, such as gravitational waves, while also making testable astrophysical and cosmological predictions. <br />
 
-In particular, I am fascinated by the largely unexplored nanohertz regime for gravitational wave detection, which has the potential to reveal exotic phenomena such as cosmic strings and phase transitions. Additionally, I am interested in the applications of machine learning in cosmology and have been exploring the use of these techniques to analyze large datasets and extract meaningful insights. <br />
+I am fascinated by the nanohertz regime for gravitational wave detection, which has the potential to reveal exotic phenomena such as cosmic strings and phase transitions. Additionally, I am interested in the applications of machine learning in cosmology and have been exploring the use of these techniques to analyze large datasets and extract meaningful insights. <br />
 
 My research objectives include identifying interdisciplinary connections between cosmology and other areas of science, staying up-to-date with the latest research in my areas of interest, and collaborating with others to broaden my scope and produce more impactful research. <br />
 
@@ -105,7 +107,9 @@ Languages: English (fluent), Filipino (mother tongue) <br />
 Coding: Command Line, Python, Mathematica, LaTeX
 
 ### Community Involvement
-Referee: PRL, PRD, JCAP, CQG, Phys. Dark Universe, EPJC, MNRAS, Astron. Comput., MPLA, Chinese J. Phys., Sci. Rep., Proceedings of the Physics Society of the Philippines, Philippine Journal of ScienceEditor: [Proceedings of the Physics Society of the Philippines](https://proceedings.spp-online.org)
+Referee: PRL, PRD, JCAP, CQG, Phys. Dark Universe, EPJC, MNRAS, Astron. Comput., MPLA, Chinese J. Phys., Sci. Rep., Proceedings of the Physics Society of the Philippines, Philippine Journal of Science
+
+Editor: [Proceedings of the Physics Society of the Philippines](https://proceedings.spp-online.org)
 
 Member: [CosmoVerse COST Action](https://cosmoversetensions.eu)---Data Analysis and Fundamental Physics Working Groups; [SKAO](https://www.skao.int/en/science-users/science-working-groups)---Pulsars and Cosmology Science Working Groups
 
