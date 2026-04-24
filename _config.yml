@@ -3,6 +3,7 @@ logo: /assets/img/rcb_3.jpeg
 email: reginaldchristianbernardo@gmail.com
 twitter: reggiebernardo_
 description: Your Friendly Neighborhood Cosmologist
+affiliation: Researcher at the Max Planck Institute for Gravitational Physics (Albert Einstein Institute)
 favicon: true
 color-scheme: auto
 
@@ -40,11 +41,9 @@ navigation:
         link: ./research.html#research-statement
       - name: Experience
         link: ./research.html#experience
-      - name: Outreach
-        link: ./research.html#outreach
   - name: My CV
     link: ./mycv.pdf
-  - name: Teaching
+  - name: Teaching & Outreach
     link: ./teaching.html
   - name: My Journey
     link: ./bio.html

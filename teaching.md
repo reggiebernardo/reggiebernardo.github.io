@@ -22,17 +22,9 @@ I have had the privilege of teaching a variety of physics courses across differe
 It was my absolute pleasure to have also been a mentor to an incredible number of students in the Philippines and Taiwan, all of whom have successfully defended their degrees and are now continuing their studies or contributing to the industry.
 
 
-<!-- | :--- | :---: |
-| **Lecture** | Particle Physics, Nuclear Theory, Thermodynamics, Relativity, Quantum Physics |
-| | For: Engineering, Science and Physics majors |
-| **Lab** | Elementary Mechanics, Thermodynamics, Modern Physics |
-| | For: Engineering, Science and Physics majors |
-| **Grader** | Classical Mechanics, Electromagnetism, Quantum Mechanics, Mathematical Physics, Solid State Physics, General and Advanced General Relativity |
-| | For: Undergraduate and Graduate Physics majors | -->
-
-
-<!-- <center>(Lab class, 2015)</center>
-<center><img src="./assets/img/lab.jpg"  width="75%"></center> <br />
-
-<center>(Lecture class, 2017)</center>
-<center><img src="./assets/img/lecture.jpg"  width="75%"></center> <br /> -->
+### Outreach
+Host, [Liknayan Podcast](https://www.youtube.com/@liknayan.podcast) <br />
+Guest, [AskTheory (26 Oct. 2023)](https://open.spotify.com/episode/6PLqA3RoWQLmqGGH4yRP8C?si=23efdd46f4a44d00) <br />
+Career talk with the [PUP Physics Society (29 Sep. 2022)](https://www.facebook.com/100064103430987/posts/461342072679237/) and the [UST Applied Physics Society (5 May 2023)](https://www.facebook.com/ustmathphysicsdept/posts/pfbid021YwscDi8Cr8UaPmA8rjYoXwghWHSJr1JyabCtdaRyndRkGBvNC5X9r83tD5zrfiel?locale=ms_MY) <br />
+[Pinoy Scientists, feature, 20-24 June 2022](https://www.facebook.com/pinoyscientists/posts/569675221190200) (day [1](https://www.facebook.com/pinoyscientists/posts/570402901117432), [2](https://www.facebook.com/pinoyscientists/posts/571198447704544), [3](https://www.facebook.com/pinoyscientists/posts/571871567637232), [4](https://www.facebook.com/pinoyscientists/posts/572511300906592), [5](https://www.facebook.com/pinoyscientists/posts/573062834184772)) <br />
+[Physics Meetup (guest, 20 Oct 2020)](https://youtu.be/cZkgEAcLd6M) and [Philippine Astronomical Society (guest, 10 Oct 2020, starting~1:43:50)](https://fb.watch/jtVpSm_Q-P/): A Brief History of BHs and Cosmology in the Philippines

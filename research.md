@@ -11,10 +11,10 @@ Codes: <br />
 - [`cosmo-learn`: code for learning cosmology using different methods and mock data](https://github.com/reggiebernardo/cosmo_learn) <br />
 - [`gp6`: Gaussian Processes for Physics - designed for late time cosmology with noisy & correlated data](https://github.com/reggiebernardo/gp6) <br />
 
-Papers: <br />
+Selected Papers: <br />
 
 - R. C. Bernardo and K.-W. Ng, Pulsar and cosmic variances of pulsar timing-array correlation measurements of the stochastic gravitational wave background. [JCAP, 2022, (11) 046](https://iopscience.iop.org/article/10.1088/1475-7516/2022/11/046), [arXiv:2209.14834](https://arxiv.org/abs/2209.14834). <br />
-- R. C. Bernardo and K.-W. Ng, Testing gravity with cosmic variance-limited pulsar timing array correlations. [PRD 109, L101502](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.104.024070), [arXiv:2306.13593](https://arxiv.org/abs/2306.13593). <br />
+- R. C. Bernardo and K.-W. Ng, Testing gravity with cosmic variance-limited pulsar timing array correlations. [PRD 109, L101502](https://doi.org/10.1103/PhysRevD.109.L101502), [arXiv:2306.13593](https://arxiv.org/abs/2306.13593). <br />
 - S. Appleby and R. C. Bernardo, Tadpole Cosmology: Self Tuning Without Degeneracy. [JCAP, 2022, (07) 035](https://iopscience.iop.org/article/10.1088/1475-7516/2022/07/035), [arXiv:2202.08672](https://arxiv.org/abs/2202.08672). <br />
 - R. C. Bernardo, D. Grandon, J. Levi Said, V. H. Cardenas. Parametric and nonparametric methods hint dark energy evolution. [Phys. Dark Universe, 36, 101017](https://www.sciencedirect.com/science/article/pii/S221268642200036X#!), [arXiv:2111.08289](https://arxiv.org/abs/2111.08289). <br />
 - R. C. Bernardo. 2021. Gravitational wave signatures from dark sector interactions. [PRD, 104, 024070](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.104.024070), [arXiv:2103.02311](https://arxiv.org/abs/2103.02311).
@@ -94,7 +94,7 @@ Overall, my goal is to contribute to the paradigm shift in cosmology by developi
 - Postdoctoral Fellow, [Max Planck Institute for Gravitational Physics (Albert Einstein Institute)](https://www.aei.mpg.de/obs-rel-cos), 2025 - <br />
 - Postdoctoral Fellow, [Asia Pacific Center for Theoretical Physics](https://www.apctp.org/), 2023 - 2025 <br />
 - Postdoctoral Fellow, [Institute of Physics, Academia Sinica](https://www.phys.sinica.edu.tw/index.php), 2021 - 2023 <br />
-- Assistant Professor, [National Institute of Physics, University of the Philippines]((http://nip.upd.edu.ph/)), 2021 - 2021 <br />
+- Assistant Professor, [National Institute of Physics, University of the Philippines](http://nip.upd.edu.ph/), 2021 - 2021 <br />
 - Instructor, National Institute of Physics, University of the Philippines, 2015 - 2020
   
 ### Education: [University of the Philippines](https://up.edu.ph/)
@@ -113,9 +113,3 @@ Editor: [Proceedings of the Physics Society of the Philippines](https://proceedi
 
 Member: [CosmoVerse COST Action](https://cosmoversetensions.eu)---Data Analysis and Fundamental Physics Working Groups; [SKAO](https://www.skao.int/en/science-users/science-working-groups)---Pulsars and Cosmology Science Working Groups
 
-### Outreach
-Host, [Liknayan Podcast](https://www.youtube.com/@liknayan.podcast) <br />
-Guest, [AskTheory (26 Oct. 2023)](https://open.spotify.com/episode/6PLqA3RoWQLmqGGH4yRP8C?si=23efdd46f4a44d00) <br />
-Career talk with the [PUP Physics Society (29 Sep. 2022)](https://www.facebook.com/100064103430987/posts/461342072679237/) and the [UST Applied Physics Society (5 May 2023)](https://www.facebook.com/ustmathphysicsdept/posts/pfbid021YwscDi8Cr8UaPmA8rjYoXwghWHSJr1JyabCtdaRyndRkGBvNC5X9r83tD5zrfiel?locale=ms_MY) <br />
-[Pinoy Scientists, feature, 20-24 June 2022](https://www.facebook.com/pinoyscientists/posts/569675221190200) (day [1](https://www.facebook.com/pinoyscientists/posts/570402901117432), [2](https://www.facebook.com/pinoyscientists/posts/571198447704544), [3](https://www.facebook.com/pinoyscientists/posts/571871567637232), [4](https://www.facebook.com/pinoyscientists/posts/572511300906592), [5](https://www.facebook.com/pinoyscientists/posts/573062834184772)) <br />
-[Physics Meetup (guest, 20 Oct 2020)](https://youtu.be/cZkgEAcLd6M) and [Philippine Astronomical Society (guest, 10 Oct 2020, starting~1:43:50)](https://fb.watch/jtVpSm_Q-P/): A Brief History of BHs and Cosmology in the Philippines
