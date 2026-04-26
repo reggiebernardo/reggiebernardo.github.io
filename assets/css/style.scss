@@ -3,6 +3,37 @@
 
 @import "jekyll-theme-minimalistic";
 
+.logo {
+  width: 150px;
+  height: 150px;
+  max-width: none;
+  object-fit: cover;
+  object-position: center 25%;
+  border-radius: 8px;
+  display: block;
+  margin: 0 0 14px 0;
+}
+
+.header-title,
+.header-title-mobile section {
+  text-align: left;
+}
+
+.header-title h2,
+.header-title-mobile h2 {
+  margin-bottom: 12px;
+}
+
+.addr {
+  text-align: left;
+}
+
+header > p {
+  text-align: left;
+  margin-left: 0;
+  margin-right: 0;
+}
+
 .overlay {
   position: fixed;
   top: 0;
