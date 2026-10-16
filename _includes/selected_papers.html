@@ -1,0 +1,10 @@
+<ul class="selected-papers">
+{%- for key in page.selected_papers %}
+  {%- assign entry = site.data.bibliography[key] %}
+  {%- if entry %}
+  <li>{{ entry }}</li>
+  {%- else %}
+  <li><em>Missing key</em> <code>{{ key }}</code>: run <code>ruby _scripts/bib_to_data.rb</code>.</li>
+  {%- endif %}
+{%- endfor %}
+</ul>

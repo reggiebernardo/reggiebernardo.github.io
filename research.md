@@ -1,9 +1,16 @@
 ---
 layout: default
+# Keys from mycv/own-bib.bib, rendered via _data/bibliography.yml (regenerate with `ruby _scripts/bib_to_data.rb`)
+selected_papers:
+  - Bernardo:2022xzl
+  - Bernardo:2023pwt
+  - Appleby:2022bxp
+  - Bernardo:2021cxi
+  - Bernardo:2021vsj
 ---
 
 ### Interests (astro-ph.CO/gr-qc)
-**Gravitational Waves, Gravity, Cosmology, Machine Learning,** Dark Energy, Black Holes, Alternative Theories of Gravity, Statistics, Data Analysis, Mathematical Physics, Physics Education
+**Gravitational Waves, Gravity, Cosmology**, Machine Learning, Data Analysis, Dark Energy
   
 ### Highlights
 Codes: <br />
@@ -13,13 +20,9 @@ Codes: <br />
 
 Selected Papers: <br />
 
-- R. C. Bernardo and K.-W. Ng, Pulsar and cosmic variances of pulsar timing-array correlation measurements of the stochastic gravitational wave background. [JCAP, 2022, (11) 046](https://iopscience.iop.org/article/10.1088/1475-7516/2022/11/046), [arXiv:2209.14834](https://arxiv.org/abs/2209.14834). <br />
-- R. C. Bernardo and K.-W. Ng, Testing gravity with cosmic variance-limited pulsar timing array correlations. [PRD 109, L101502](https://doi.org/10.1103/PhysRevD.109.L101502), [arXiv:2306.13593](https://arxiv.org/abs/2306.13593). <br />
-- S. Appleby and R. C. Bernardo, Tadpole Cosmology: Self Tuning Without Degeneracy. [JCAP, 2022, (07) 035](https://iopscience.iop.org/article/10.1088/1475-7516/2022/07/035), [arXiv:2202.08672](https://arxiv.org/abs/2202.08672). <br />
-- R. C. Bernardo, D. Grandon, J. Levi Said, V. H. Cardenas. Parametric and nonparametric methods hint dark energy evolution. [Phys. Dark Universe, 36, 101017](https://www.sciencedirect.com/science/article/pii/S221268642200036X#!), [arXiv:2111.08289](https://arxiv.org/abs/2111.08289). <br />
-- R. C. Bernardo. 2021. Gravitational wave signatures from dark sector interactions. [PRD, 104, 024070](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.104.024070), [arXiv:2103.02311](https://arxiv.org/abs/2103.02311).
+{% include selected_papers.html %}
   
-Full publication list at [Inspire HEP](https://inspirehep.net/authors/1758391), [ORCID](https://orcid.org/0000-0001-8589-6851), and [Google Scholar](https://scholar.google.com/citations?user=qoDKcvQAAAAJ&hl=en), or [my CV](./mycv.pdf). <br />
+Full publication list at [Inspire HEP](https://inspirehep.net/authors/1758391), [ORCID](https://orcid.org/0000-0001-8589-6851), and [Google Scholar](https://scholar.google.com/citations?user=qoDKcvQAAAAJ&hl=en), or [my CV](./mycv/main.pdf). <br />
 
 <html>
 <head>
@@ -91,23 +94,25 @@ My research objectives include identifying interdisciplinary connections between
 Overall, my goal is to contribute to the paradigm shift in cosmology by developing new theories and models that can address the fundamental questions and puzzles of the field.
 
 ### Experience
-- Postdoctoral Fellow, [Max Planck Institute for Gravitational Physics (Albert Einstein Institute)](https://www.aei.mpg.de/obs-rel-cos), 2025 - <br />
-- Postdoctoral Fellow, [Asia Pacific Center for Theoretical Physics](https://www.apctp.org/), 2023 - 2025 <br />
-- Postdoctoral Fellow, [Institute of Physics, Academia Sinica](https://www.phys.sinica.edu.tw/index.php), 2021 - 2023 <br />
-- Assistant Professor, [National Institute of Physics, University of the Philippines](http://nip.upd.edu.ph/), 2021 - 2021 <br />
-- Instructor, National Institute of Physics, University of the Philippines, 2015 - 2020
+- **Senior Scientist**, [Max Planck Institute for Gravitational Physics (Albert Einstein Institute)](https://www.aei.mpg.de/obs-rel-cos), D-30167 Hannover, Germany, Jul. 2026 – present <br />
+- **Postdoc/Junior Scientist**, [Max Planck Institute for Gravitational Physics (Albert Einstein Institute)](https://www.aei.mpg.de/obs-rel-cos), D-30167 Hannover, Germany, May 2025 – Jul. 2026 <br />
+- **Visiting Scientist**, [Institute of Physics, Academia Sinica](https://www.phys.sinica.edu.tw/index.php), Taipei 11529, Taiwan, Mar. 2025 – May 2025 <br />
+- **Postdoctoral Fellow**, [Asia Pacific Center for Theoretical Physics](https://www.apctp.org/), Pohang 37673, Republic of Korea, Nov. 2023 – Mar. 2025 <br />
+- **Postdoctoral Fellow**, [Institute of Physics, Academia Sinica](https://www.phys.sinica.edu.tw/index.php), Taipei 11529, Taiwan, Oct. 2021 – Oct. 2023 <br />
+- **Assistant Professor**, [National Institute of Physics, University of the Philippines](http://nip.upd.edu.ph/) Diliman, Quezon City 1101, Philippines, Feb. 2021 – Aug. 2021 <br />
+- **Instructor**, National Institute of Physics, University of the Philippines Diliman, Quezon City 1101, Philippines, Aug. 2015 – Jul. 2020
   
-### Education: [University of the Philippines](https://up.edu.ph/)
-- **PhD Physics**, *Most Outstanding Ph.D.*, 2017 - 2020 <br />
-- MS Physics, *Most Outstanding M.S.*, 2015 - 2017 <br />
-- BS Physics, *Magna Cum Laude, Best Thesis*, 2010 - 2015 <br />
+### Education: [University of the Philippines](https://up.edu.ph/) Diliman, Quezon City 1101, Philippines
+- **PhD Physics**, *Most Outstanding Ph.D.*, Aug. 2017 – Jul. 2020 <br />
+- MS Physics, *Most Outstanding M.S.*, Aug. 2015 – Jun. 2017 <br />
+- BS Physics, *Magna Cum Laude, Best Thesis*, Jun. 2010 – Jun. 2015 <br />
 
 ### Miscellaneous
 Languages: English (fluent), Filipino (mother tongue) <br />
 Coding: Command Line, Python, Mathematica, LaTeX
 
 ### Community Involvement
-Referee: PRL, PRD, JCAP, CQG, Phys. Dark Universe, EPJC, MNRAS, Astron. Comput., MPLA, Chinese J. Phys., Sci. Rep., Proceedings of the Physics Society of the Philippines, Philippine Journal of Science
+Referee: PRL, PRD, JCAP, CQG, Phys. Dark Universe, EPJC, Astron. Comput., MNRAS, ApJ, MPLA, Chinese J. Phys., Sci. Rep., GRG, JKPS, Proceedings of the Physics Society of the Philippines, Philippine Journal of Science
 
 Editor: [Proceedings of the Physics Society of the Philippines](https://proceedings.spp-online.org)
 

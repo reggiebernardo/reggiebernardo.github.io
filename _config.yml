@@ -3,9 +3,25 @@ logo: /assets/img/rcb_3.jpeg
 email: reginaldchristianbernardo@gmail.com
 twitter: reggiebernardo_
 description: Your Friendly Neighborhood Cosmologist
-affiliation: Researcher at the Max Planck Institute for Gravitational Physics (Albert Einstein Institute)
+affiliation: Senior Scientist at the Max Planck Institute for Gravitational Physics (Albert Einstein Institute)
 favicon: true
 color-scheme: auto
+
+# Publish only the built CV from mycv/ (not the LaTeX sources); defaults re-listed because setting exclude replaces them.
+exclude:
+  - mycv/*
+  - .sass-cache
+  - .jekyll-cache
+  - gemfiles
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+include:
+  - mycv/main.pdf
 
 plugins:
   - jekyll-sitemap
@@ -42,7 +58,7 @@ navigation:
       - name: Experience
         link: ./research.html#experience
   - name: My CV
-    link: ./mycv.pdf
+    link: ./mycv/main.pdf
   - name: Teaching & Outreach
     link: ./teaching.html
   - name: My Journey
