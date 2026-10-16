@@ -8,8 +8,18 @@ favicon: true
 color-scheme: auto
 
 # Publish only the built CV from mycv/ (not the LaTeX sources); defaults re-listed because setting exclude replaces them.
+# No `include:` override: GitHub Pages' Jekyll 3.x ignores directory paths in `include`, which dropped main.pdf.
 exclude:
-  - mycv/*
+  - mycv/*.tex
+  - mycv/*.sty
+  - mycv/*.bst
+  - mycv/*.bib
+  - mycv/*.aux
+  - mycv/*.log
+  - mycv/*.bbl
+  - mycv/*.blg
+  - mycv/*.out
+  - mycv/makefile
   - .sass-cache
   - .jekyll-cache
   - gemfiles
@@ -20,8 +30,6 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
-include:
-  - mycv/main.pdf
 
 plugins:
   - jekyll-sitemap
