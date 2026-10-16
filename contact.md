@@ -3,7 +3,7 @@ layout: default
 ---
 
 **Dr. Reginald Christian Bernardo** <br />
-Postdoctoral Fellow, [MPI for Gravitational Physics (Albert Einstein Institute)](https://www.aei.mpg.de/obs-rel-cos) <br />
+Senior Scientist, [MPI for Gravitational Physics (Albert Einstein Institute)](https://www.aei.mpg.de/obs-rel-cos) <br />
 Office: Callinstrasse 38, Hannover 30167 ([maps](https://maps.app.goo.gl/nko8vE9D6zPjW9848)) <br />
 Phone: +49 (0) 511 762-3437 <br />
 Email: [reginaldchristianbernardo(at)gmail(dot)com](mailto:reginaldchristianbernardo@gmail.com) <br />

@@ -1,0 +1,121 @@
+%%%%%%%%%%%%%%%
+% This CV example/template is based on my own
+% CV which I (lamely attempted) to clean up, so that
+% it's less of an eyesore and easier for others to use.
+%
+% LianTze Lim (liantze@gmail.com)
+% 13 May, 2020
+%
+\documentclass[a4paper,skipsamekey,11pt,english]{curve}
+
+% Uncomment to enable Chinese; needs XeLaTeX
+% \usepackage{ctex}
+
+\usepackage{settings}
+
+% Change the fonts if you want
+\ifxetexorluatex % If you're using XeLaTeX or LuaLaTeX
+  \usepackage{fontspec} 
+  %% You can use \setmainfont etc; I'm just using these font packages here because they provide OpenType fonts for use by XeLaTeX/LuaLaTeX anyway
+  \usepackage[p,osf,swashQ]{cochineal}
+  \usepackage[medium,bold]{cabin}
+  \usepackage[varqu,varl,scale=0.9]{zi4}
+\else % If you're using pdfLaTeX or latex
+  \usepackage[T1]{fontenc}
+  \usepackage[p,osf,swashQ]{cochineal}
+  \usepackage{cabin}
+  \usepackage[varqu,varl,scale=0.9]{zi4}
+\fi
+
+%% Publication lists use plain BibTeX with JHEP.bst (own name is bolded inside JHEP.bst)
+\cvbibliography{JHEP}{own-bib}
+
+% Change the page margins if you want
+% \geometry{left=1cm,right=1cm,top=1.5cm,bottom=1.5cm}
+
+% Change the colours if you want
+% \definecolor{SwishLineColour}{HTML}{00FFFF}
+% \definecolor{MarkerColour}{HTML}{0000CC}
+
+% Change the item prefix marker if you want
+% \prefixmarker{$\diamond$}
+
+%% Photo is only shown if "fullonly" is included
+\includecomment{fullonly}
+% \excludecomment{fullonly}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\leftheader{%
+  % \leftline{\LARGE\bfseries\sffamily Reginald Christian Bernardo, Ph.D.}
+  \centerline{\LARGE\bfseries\sffamily Reginald Christian Bernardo, Ph.D.}
+  \vspace{0.3em} % Adjust the vertical space as needed
+  % \makefield{\faEnvelope[regular]}{\texttt{reginaldchristianbernardo@gmail.com}}
+
+  % \makefield{\faEnvelope}{\texttt{reginaldchristianbernardo@gmail.com}}
+
+  \centerline{\makefield{\faGlobe}{\texttt{\url{https://reggiebernardo.github.io}}}}
+  
+  \centerline{\makefield{\faEnvelope}{\texttt{\url{reginaldchristianbernardo@gmail.com}}}}
+  
+  % \makefield{\faTwitter}{\texttt{reggiebernardo\_}}
+
+  % \makefield{\faGlobe}{\texttt{\url{https://reggiebernardo.github.io}}}
+
+  % \centerline{\makefield{\faGlobe}{\texttt{\url{https://reggiebernardo.github.io}}}}
+
+  % \makefield{\faGithub}{\url{https://github.com/reggiebernardo}}
+
+%  \makefield{\faLinkedin}
+%  {\url{http://www.linkedin.com/in/example/}}
+}
+
+\rightheader{}
+% \begin{fullonly}
+% \photo[r]{rcb}
+% \photoscale{0.25}
+% \end{fullonly}
+
+\title{Curriculum Vitae}
+
+\begin{document}
+\makeheaders[c]
+
+%% Switches: \cvhyphenoff/\cvhyphenon (no word breaking), \cvbookmarkoff/\cvbookmarkon (marker before entries)
+\cvhyphenoff
+\makerubric{interests}
+\cvkeyfixed
+\cvbookmarkoff
+\makerubric{highlights}
+\makerubric{employment}
+\makerubric{education}
+\makerubric{courses}
+\makerubric{admin}
+
+
+% If you're not a researcher nor an academic, you probably don't have any publications; delete this line.
+%% Sometimes when a section can't be nicely modelled with the \entry[]... mechanism; hack our own and use \input NOT \makerubric
+% \newpage
+
+% \newpage
+% \makerubric{courses}
+\makerubric{misc}
+\makerubric{skills}
+% \makerubric{service}
+% \input{referee-full}
+
+\cvkeyflex
+\cvbookmarkon
+\makerubric{workshops}
+% \input{inproc}
+
+% \newpage
+% \makerubric{referee}
+\input{referee-full}
+
+\newpage
+\input{publications}
+\newpage
+\input{inproc}
+
+\end{document}

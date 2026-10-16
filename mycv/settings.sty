@@ -1,0 +1,176 @@
+\RequirePackage{silence}
+\WarningsOff[longtable]
+\WarningsOff[array]
+
+\usepackage{ifxetex,ifluatex}
+\newif\ifxetexorluatex
+\ifxetex
+  \xetexorluatextrue
+\else
+  \ifluatex
+    \xetexorluatextrue
+  \else
+    \xetexorluatexfalse
+  \fi
+\fi
+
+\RequirePackage{graphicx}
+\RequirePackage[hyphens]{url}
+\RequirePackage{babel}
+\raggedright
+
+\RequirePackage[fixed]{fontawesome5}
+
+\newcommand{\smallcaps}[1]{\textsc{\lowercase{#1}}}
+
+\RequirePackage[a4paper,nohead,nofoot,hmargin=2.25cm,vmargin=2cm]{geometry}
+\RequirePackage{relsize}
+\RequirePackage[dvipsnames,svgnames]{xcolor}
+\RequirePackage{tikz}
+\usetikzlibrary{shapes,shadows}
+
+\RequirePackage{comment}
+%%% default colors
+% \definecolor{SwishLineColour}{HTML}{88AC0B}
+% \definecolor{MarkerColour}{HTML}{B6073F}
+
+% %%% bw
+\definecolor{SwishLineColour}{HTML}{808080}
+% \definecolor{MarkerColour}{HTML}{808080}
+
+\definecolor{MarkerColour}{HTML}{06005b}
+
+\RequirePackage{tikz}
+\newcommand*\circled[1]{\tikz[baseline=(char.base)]{
+   \node[shape=circle,text=white,fill=MarkerColour!80!black,font=\sffamily\scriptsize\bfseries,inner sep=1pt,text height=1.35ex,minimum width=1.5em,text centered] (char) {#1};}}
+   
+%%% Bibliography: plain BibTeX with JHEP.bst (no biblatex).
+%% \cvbibliography{<style>}{<bib>} writes the aux lines for `bibtex main` and cites every entry.
+\newcommand{\cvbibliography}[2]{\AtBeginDocument{%
+  \if@filesw
+    \immediate\write\@auxout{\string\bibstyle{#1}}%
+    \immediate\write\@auxout{\string\bibdata{#2}}%
+    \immediate\write\@auxout{\string\citation{*}}%
+  \fi}}
+
+\newcounter{bibitem}
+\newlength{\cvbibhang}
+\setlength{\cvbibhang}{2.5em}
+\newlength{\cvbibitemsep}
+\setlength{\cvbibitemsep}{1.5ex}
+
+% JHEP.bst is edited to emit \bibitem{key}{type}{body}; the body is typeset only if its type matches.
+\long\def\cv@bibitem#1#2#3{%
+  \def\cv@thistype{#2}%
+  \ifx\cv@thistype\cv@bibtype
+    \stepcounter{bibitem}%
+    \par\noindent\hangindent=\cvbibhang\hangafter=1\relax
+    \makebox[\cvbibhang][l]{\circled{\thebibitem}}#3\par
+    \vskip\cvbibitemsep
+  \fi}
+
+% \cvprintbib{article} or \cvprintbib{inproceedings}: number and print only that entry type.
+\newcommand{\cvprintbib}[1]{%
+  \begingroup
+    \def\cv@bibtype{#1}%
+    \setcounter{bibitem}{0}%
+    \let\bibitem\cv@bibitem
+    \def\thebibliography##1{}%
+    \def\endthebibliography{}%
+    \@input{\jobname.bbl}%
+  \endgroup}
+
+% \cvbibentry{key}: inline JHEP-formatted entry (no number), e.g. inside \entry in highlights.tex.
+\long\def\cv@bibitem@one#1#2#3{%
+  \def\cv@thiskey{#1}%
+  \ifx\cv@thiskey\cv@wantkey #3\fi}
+
+\newcommand{\cvbibentry}[1]{%
+  \begingroup
+    \def\cv@wantkey{#1}%
+    \let\bibitem\cv@bibitem@one
+    \def\thebibliography##1{}%
+    \def\endthebibliography{}%
+    \@input{\jobname.bbl}%
+  \endgroup}
+
+\headerscale{1}
+%\setlength{\headerspace}{6pt}
+\rubricfont{\Large\bfseries\sffamily}
+\setlength{\rubricspace}{2pt}
+%\setlength{\rubricafterspace}{-9pt}
+\setlength{\rubricafterspace}{-3pt}
+\setlength{\subrubricspace}{3pt}
+\setlength{\subrubricbeforespace}{4pt}
+\def\@@rubrichead#1{%
+  \begin{tikzpicture}[baseline]%\
+  \shade[left color=SwishLineColour!60!white, right color=white] rectangle (\@almosttextwidth,2.5pt);
+  \node[font={\@rubricfont},inner sep=0pt,text ragged,anchor=south west,text depth=.5ex,text height=1.5ex] at (1pt,2pt) {#1};
+  \end{tikzpicture}%
+  \vspace\rubricspace%
+}
+
+% Bare section title on continuation pages (the class option sets "~(continued)").
+\continuedname{}
+
+\subrubricfont{\large\bfseries\sffamily}
+\subrubricalignment{l}
+
+\newcommand{\makefield}[2]{\makebox[1.5em]{\color{MarkerColour!80!black}#1} #2\hspace{2em}}
+
+\keyalignment{r}
+
+%% Fixed-width key column so the bookmark markers line up across rubrics.
+\newlength{\cvkeywidth}
+\AtBeginDocument{\settowidth{\cvkeywidth}{Nov.~2023--Apr.~2025}\addtolength{\cvkeywidth}{0.5em}}
+\newcommand{\cvkeyfixed}{\newcolumntype{k}{>{\@keyfont\raggedleft\arraybackslash}p{\cvkeywidth}}}
+\newcommand{\cvkeyflex}{\newcolumntype{k}{>{\@keyfont}r}}
+
+\rubricalignment{l}
+\renewcommand{\arraystretch}{1.25}
+\urlstyle{tt}
+
+\newcommand{\prefixmarker}[1]{\def\@prefixmarker{#1}}
+\prefixmarker{\relscale{.9}\faBookmark}
+
+%% \cvbookmarkon / \cvbookmarkoff in main.tex switch the bookmark marker for the rubrics that follow.
+\newcommand{\cvbookmarkon}{\prefix{%
+  \hspace*{-1ex}
+  \color{MarkerColour!80!black}\@prefixmarker%
+  \hspace*{1ex}%
+}}
+\newcommand{\cvbookmarkoff}{\prefix{\hspace*{1ex}}}
+\cvbookmarkon
+
+%% \cvhyphenoff forbids automatic hyphenation (words move whole to the next line); \cvhyphenon restores defaults.
+\newcommand{\cvhyphenoff}{\hyphenpenalty=10000 \tolerance=2000 \emergencystretch=3em\relax}
+\newcommand{\cvhyphenon}{\hyphenpenalty=50 \tolerance=200 \emergencystretch=0pt\relax}
+
+%% Talk list (workshops.tex). Left column = year (shown once per year via skipsamekey).
+%% Line 1: title (event name for attendances). Line 2: ROLE · event, where · date.
+%% Styling per category lives only here:
+%%   \cvinvited{year}{role}{title}{event}{where}{day-month}   accent label, bold title
+%%   \cvtalk{year}{title}{event}{where}{day-month}            grey label, plain title
+%%   \cvposter{year}{title}{event}{where}{day-month}          grey label, plain title
+%%   \cvattended{year}{event}{where}{day-month}               grey label and text, no title
+\newcommand{\cv@role}[2]{{\color{#1}\sffamily\scriptsize\bfseries\MakeUppercase{#2}}}
+\newcommand{\cv@dot}{\ \textperiodcentered\ }
+\newcommand{\cvinvited}[6]{\entry*[#1]{\textbf{#3}\par
+  \cv@role{MarkerColour!80!black}{#2}\cv@dot\emph{#4}, #5\cv@dot#6}}
+\newcommand{\cvtalk}[5]{\entry*[#1]{#2\par
+  \cv@role{black!60}{Talk}\cv@dot\emph{#3}, #4\cv@dot#5}}
+\newcommand{\cvposter}[5]{\entry*[#1]{#2\par
+  \cv@role{black!60}{Poster}\cv@dot\emph{#3}, #4\cv@dot#5}}
+\newcommand{\cvattended}[4]{\entry*[#1]{\leavevmode\color{black!65}#2\par
+  \cv@role{black!60}{Participant}\cv@dot#3\cv@dot#4}}
+
+\newcommand{\makerubrichead}[1]{\vskip\baselineskip\@@rubrichead{#1}}
+
+% \RequirePackage[colorlinks=true,allcolors=black,breaklinks=true, urlcolor=blue]{hyperref}
+% \RequirePackage[colorlinks=true,allcolors=black,breaklinks=true, urlcolor=black]{hyperref}
+
+\RequirePackage[colorlinks=true,allcolors=black,breaklinks=true, urlcolor=red]{hyperref}
+
+% \RequirePackage[colorlinks,citecolor=red,urlcolor=red,linkcolor=red]{hyperref}
+
+% \renewcommand{\@continued}[1]{#1}  % This disables "(continued)"
