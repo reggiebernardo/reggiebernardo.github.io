@@ -28,6 +28,28 @@
   text-align: left;
 }
 
+/* Keeps the at-a-glance header visible while scrolling (desktop and tablet widths only). */
+.at-a-glance {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: var(--clr-bg);
+}
+
+html {
+  scroll-padding-top: 5em;
+}
+
+@media screen and (max-width: 720px) {
+  .at-a-glance {
+    position: static;
+  }
+
+  html {
+    scroll-padding-top: 0;
+  }
+}
+
 header > p {
   text-align: left;
   margin-left: 0;

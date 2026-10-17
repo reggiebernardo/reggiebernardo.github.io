@@ -1,3 +1,33 @@
+<div class="at-a-glance" style="margin:0 0 1em;padding:0.4em 0;border-top:1px solid rgba(128,128,128,0.35);border-bottom:1px solid rgba(128,128,128,0.35);font-size:0.85em;">
+  <div style="display:flex;flex-wrap:wrap;align-items:baseline;gap:0.2em 1.4em;">
+    <span style="text-transform:uppercase;letter-spacing:0.08em;opacity:0.7;">At a glance</span>
+    <span><strong>{{ site.data.stats.papers }}</strong> papers and preprints since {{ site.data.stats.first_year }}</span>
+    <span><strong>{{ site.data.stats.first_author }}</strong> as first author</span>
+    <span><strong>3</strong> <a href="https://github.com/reggiebernardo">public codes</a></span>
+    <span>Most published in <em>Physical Review D</em> and <em>Journal of Cosmology and Astroparticle Physics</em></span>
+  </div>
+  <div style="display:flex;flex-wrap:wrap;gap:0.2em 1em;margin-top:0.35em;">
+    <a href="{{ '/research.html' | relative_url }}">Research</a>
+    <a href="{{ '/mycv/main.pdf' | relative_url }}">CV</a>
+    <a href="https://github.com/reggiebernardo">GitHub</a>
+    <a href="https://inspirehep.net/authors/1758391">INSPIRE</a>
+    <a href="https://orcid.org/0000-0001-8589-6851">ORCID</a>
+    <a href="https://scholar.google.com/citations?user=qoDKcvQAAAAJ&hl=en">Google Scholar</a>
+    <a href="mailto:reginaldchristianbernardo@gmail.com">Email</a>
+  </div>
+</div>
+
+{% comment %} Previous compact version without links, kept for reference:
+<div class="at-a-glance" style="display:flex;flex-wrap:wrap;align-items:baseline;gap:0.2em 1.4em;margin:0 0 1em;padding:0.4em 0;border-top:1px solid rgba(128,128,128,0.35);border-bottom:1px solid rgba(128,128,128,0.35);font-size:0.85em;">
+  <span style="text-transform:uppercase;letter-spacing:0.08em;opacity:0.7;">At a glance</span>
+  <span><strong>{{ site.data.stats.papers }}</strong> papers and preprints since {{ site.data.stats.first_year }}</span>
+  <span><strong>{{ site.data.stats.first_author }}</strong> as first author</span>
+  <span><strong>3</strong> <a href="https://github.com/reggiebernardo">public codes</a></span>
+  <span>Most published in <em>Physical Review D</em> and <em>Journal of Cosmology and Astroparticle Physics</em></span>
+</div>
+{% endcomment %}
+
+{% comment %} Previous large version, kept for reference:
 <div class="at-a-glance" style="display:flex;flex-wrap:wrap;gap:2em;margin:1.2em 0 0.6em;">
   <div><strong style="font-size:1.9em;">{{ site.data.stats.papers }}</strong><br />papers and preprints since {{ site.data.stats.first_year }}</div>
   <div><strong style="font-size:1.9em;">{{ site.data.stats.first_author }}</strong><br />as first author</div>
@@ -5,3 +35,4 @@
 </div>
 
 <p>Journals most published: <em>Physical Review D</em> and <em>Journal of Cosmology and Astroparticle Physics</em>.</p>
+{% endcomment %}

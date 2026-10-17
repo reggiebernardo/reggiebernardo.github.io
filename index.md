@@ -2,6 +2,14 @@
 layout: default
 ---
 
+{% comment %} The at-a-glance header with links now comes from _layouts/default.html on every page. Previous version of this top block:
+{% include at_a_glance.html %}
+[Research](./research) &middot; [CV](./mycv/main.pdf) &middot; [GitHub](https://github.com/reggiebernardo) &middot; [INSPIRE](https://inspirehep.net/authors/1758391) &middot; [ORCID](https://orcid.org/0000-0001-8589-6851) &middot; [Google Scholar](https://scholar.google.com/citations?user=qoDKcvQAAAAJ&hl=en) &middot; [Email](mailto:reginaldchristianbernardo@gmail.com)
+{% endcomment %}
+
+> "Pick a flower on Earth and you move the farthest star." - PD
+
+{% comment %} Previous top block, kept for reference (the links row now follows the introduction):
 > "Pick a flower on Earth and you move the farthest star." - PD
 
 At A Glance
@@ -11,6 +19,7 @@ At A Glance
 [Research](./research) &middot; [CV](./mycv/main.pdf) &middot; [GitHub](https://github.com/reggiebernardo) &middot; [INSPIRE](https://inspirehep.net/authors/1758391) &middot; [ORCID](https://orcid.org/0000-0001-8589-6851) &middot; [Google Scholar](https://scholar.google.com/citations?user=qoDKcvQAAAAJ&hl=en) &middot; [Email](mailto:reginaldchristianbernardo@gmail.com)
 
 ---
+{% endcomment %}
 
 Hello, Reggie here! I'm a [cosmologist](https://en.wikipedia.org/wiki/Physical_cosmology). In this website, I share my investigations and thoughts on developments in the field -- at the moment my interests have aligned with pulsar timing and pulsar timing arrays. Two questions that I chase after are
 
@@ -18,9 +27,13 @@ Hello, Reggie here! I'm a [cosmologist](https://en.wikipedia.org/wiki/Physical_c
 
 and
 
-> How far could we learn about neutron stars' anatomy with data?
+> How far could we learn about neutron stars' structure with data?
 
 Delve into my [research](./research) and [codes](https://github.com/reggiebernardo) to learn more about my interests. Feel free to [reach out](mailto:reginaldchristianbernardo@gmail.com) with any questions or comments.
+
+{% comment %} Links row, now part of the header on every page:
+[Research](./research) &middot; [CV](./mycv/main.pdf) &middot; [GitHub](https://github.com/reggiebernardo) &middot; [INSPIRE](https://inspirehep.net/authors/1758391) &middot; [ORCID](https://orcid.org/0000-0001-8589-6851) &middot; [Google Scholar](https://scholar.google.com/citations?user=qoDKcvQAAAAJ&hl=en) &middot; [Email](mailto:reginaldchristianbernardo@gmail.com)
+{% endcomment %}
 
 <center>Me as meme (concepted with VMG)</center>
 <center><img src="./assets/img/measmeme.jpg"  width="75%"></center>
