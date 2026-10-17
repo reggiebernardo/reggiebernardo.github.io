@@ -19,7 +19,7 @@ My goal is to pass on this passion, particularly to young people in the Philippi
 
 I have had the privilege of teaching a variety of physics courses across different levels as an Instructor and later an Assistant Professor at [NIP-UPD](http://nip.upd.edu.ph/). As a lecturer, I have taught subjects such as particle physics, nuclear theory, thermodynamics, relativity, and quantum physics to engineering, science, and physics majors. Additionally, I have instructed laboratory courses in elementary mechanics, thermodynamics, and modern Physics for the same group of students. Beyond teaching, I have also served as a grader for courses including classical mechanics, electromagnetism, quantum mechanics, mathematical physics, solid state physics, and both general and advanced general relativity, catering to both undergraduate and graduate physics majors.
 
-It was my absolute pleasure to have also been a mentor to an incredible number of students in the Philippines and Taiwan, all of whom have successfully defended their degrees and are now continuing their studies or contributing to the industry.
+It was my absolute pleasure to have also been a mentor to an incredible number of students, all of whom have successfully defended their degrees and are now continuing their studies or contributing to the industry.
 
 
 ### Outreach

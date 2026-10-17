@@ -4,7 +4,23 @@ layout: default
 
 > "Pick a flower on Earth and you move the farthest star." - PD
 
-Hello, Reggie here! I'm a [cosmologist](https://en.wikipedia.org/wiki/Physical_cosmology) dedicated to uncovering the mysteries of the Universe. In this website, I share my investigations and thoughts on developments in the field. Delve into my [research](./research), [notebooks](https://github.com/reggiebernardo/notebooks), and [readings](https://twitter.com/reggiebernardo_) to learn and be inspired. Join me on this exciting journey of exploration, and feel free to [reach out](mailto:reginaldchristianbernardo@gmail.com) with any questions or comments. Let's explore the cosmos together!
+At A Glance
+
+{% include at_a_glance.html %}
+
+[Research](./research) &middot; [CV](./mycv/main.pdf) &middot; [GitHub](https://github.com/reggiebernardo) &middot; [INSPIRE](https://inspirehep.net/authors/1758391) &middot; [ORCID](https://orcid.org/0000-0001-8589-6851) &middot; [Google Scholar](https://scholar.google.com/citations?user=qoDKcvQAAAAJ&hl=en) &middot; [Email](mailto:reginaldchristianbernardo@gmail.com)
+
+---
+
+Hello, Reggie here! I'm a [cosmologist](https://en.wikipedia.org/wiki/Physical_cosmology). In this website, I share my investigations and thoughts on developments in the field -- at the moment my interests have aligned with pulsar timing and pulsar timing arrays. Two questions that I chase after are
+
+> What is the origin of the nanohertz gravitational wave signal?
+
+and
+
+> How far could we learn about neutron stars' anatomy with data?
+
+Delve into my [research](./research) and [codes](https://github.com/reggiebernardo) to learn more about my interests. Feel free to [reach out](mailto:reginaldchristianbernardo@gmail.com) with any questions or comments.
 
 <center>Me as meme (concepted with VMG)</center>
 <center><img src="./assets/img/measmeme.jpg"  width="75%"></center>
